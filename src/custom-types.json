@@ -407,6 +407,9 @@
   "audio/x-aac": {
     "compressible": false
   },
+  "audio/aac": {
+    "compressible": false
+  },
   "audio/x-caf": {
     "compressible": false
   },
